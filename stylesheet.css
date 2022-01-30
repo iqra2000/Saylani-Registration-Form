@@ -1,0 +1,104 @@
+.headOne
+{
+    text-align: center;
+    font-family:Sans-serif;
+    color: #8100FA;
+    text-decoration: underline;
+	margin-top:-60px;
+}
+*
+{
+	margin : 0;
+}
+table
+{ 
+    background-color: #8100FA;
+	
+}
+#row01{
+    padding-left:10px;
+    width:135px;
+}
+
+#row02{
+    width:135px;
+    height:15px;
+}
+td
+{
+    text-align:left;
+	letter-spacing: 1px;    
+    color: white;
+	font-size:12px;
+    font-family:Sans-serif;
+    letter-spacing: 1px;
+}
+#placeholder
+{
+    width:130px;   
+}
+
+
+#day
+{
+    width:60px;
+}
+
+#month
+{
+    width:70px;
+}
+
+#year
+{
+    width:60px;
+}
+#SetMargin
+{
+    
+    padding-left:11px;
+	vertical-align:top;
+}
+#set_checkbox
+{
+	padding:6px;
+	font-size:13px;
+}
+#qualifiTable
+{
+    text-align:center;
+}
+#SetMargin01{
+    vertical-align: top;
+}
+.SubmitStyle
+{
+	text-decoration: none;
+	font-family:sans-serif;
+    background-color: lightgray;
+    font-size:15px;
+    padding:1px;    
+    color:black;
+	border:1px solid black;
+}
+#submit01
+{
+    font-size:61px;
+    color:green;
+}
+
+#submit02{
+    font-size:46px;
+    color:blueviolet;
+}
+
+#submit03{
+    font-size:70px;
+	text-decoration:underline;
+    color:purple;
+    
+}
+.sub
+{
+    text-align: center;
+}
